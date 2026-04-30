@@ -16,5 +16,9 @@ function getRandomColor() {
 }
 
 console.log("D-drive change applied");
+const device = "D-drive";
 
-const device = "D-drive";r
+console.log|("c-drive loaded");
+const source = "C-drive";
+
+// End of C-drive practice changes
