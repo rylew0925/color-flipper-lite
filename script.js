@@ -17,4 +17,4 @@ function getRandomColor() {
 
 console.log("D-drive change applied");
 
-const device = "D-drive";
+const device = "D-drive";r
