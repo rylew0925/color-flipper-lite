@@ -3,6 +3,7 @@ body {
   text-align: center;
   padding-top: 50px;
   transition: background-color 0.3s ease;
+  font-family: Verdana, sdans-serif;
 }
 
 #btn {
@@ -10,6 +11,11 @@ body {
   font-size: 1.1rem;
   cursor: pointer;
   margin-top: 20px;
+  border: 2px solid #333;
+}
+
+#btn:hover {
+  background-color: #eee;
 }
 
 #color-code {
